@@ -1,0 +1,9 @@
+data/index/*
+data/processed/*
+data/Legal_data/*
+data/tokenizer/*
+data/lawformer/*
+data/vector_index/*
+data/*.db
+data/*.json
+**/__pycache__/
